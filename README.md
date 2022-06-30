@@ -1,6 +1,8 @@
 # Ciclo2
 Final challenge of cycle 2 from MisiónTIC 2022 
 
+<img src="https://github.com/dzarkV/First-CRUD-App-Java/blob/main/shot_view.png" width=50% height=50%>
+
 # Requirements
 This challenge was made from a problem:
 
